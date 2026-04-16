@@ -10,6 +10,10 @@
   <section>
     <p>this part its just for a prank</p>
     <p>hola vue</p>
+    <ul>
+      <li>primera parte</li>
+      <li>segunda parte</li>
+    </ul>
   </section>
 
 </template>
