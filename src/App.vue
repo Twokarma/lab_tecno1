@@ -9,6 +9,7 @@
 
   <section>
     <p>this part its just for a prank</p>
+    <p>hola vue</p>
   </section>
 
 </template>
